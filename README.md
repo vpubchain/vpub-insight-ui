@@ -1,6 +1,6 @@
 # Insight UI
 
-A Particl blockchain explorer web application service for [Bitcore Node](https://github.com/vpubchain/particl-bitcore-node) using the [Insight API](https://github.com/vpubchain/particl-insight-api).
+A Particl blockchain explorer web application service for [Bitcore Node](https://github.com/vpubchain/vpub-bitcore-node) using the [Insight API](https://github.com/vpubchain/vpub-insight-api).
 
 ## Quick Start
 
@@ -88,11 +88,11 @@ compile***.
 
 ## Note
 
-For more details about the [Insight API](https://github.com/vpubchain/particl-insight-api) configuration and end-points, go to [Insight API GitHub repository](https://github.com/vpubchain/particl-insight-api).
+For more details about the [Insight API](https://github.com/vpubchain/vpub-insight-api) configuration and end-points, go to [Insight API GitHub repository](https://github.com/vpubchain/vpub-insight-api).
 
 ## Contribute
 
-Contributions and suggestions are welcomed at the [Insight UI GitHub repository](https://github.com/vpubchain/particl-insight-ui).
+Contributions and suggestions are welcomed at the [Insight UI GitHub repository](https://github.com/vpubchain/vpub-insight-ui).
 
 
 ## License
