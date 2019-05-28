@@ -26,7 +26,7 @@ angular.module('insight.currency').controller('CurrencyController',
         } else if (this.symbol === 'bits') {
           this.factor = 1000000;
           response = _roundFloat((value * this.factor), 2);
-        } else { // assumes symbol is PART
+        } else { // assumes symbol is VP
           this.factor = 1;
           response = _roundFloat((value * this.factor), 8);
         }
