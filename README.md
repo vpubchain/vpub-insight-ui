@@ -1,6 +1,6 @@
 # Insight UI
 
-A Particl blockchain explorer web application service for [Bitcore Node](https://github.com/vpubchain/vpub-bitcore-node) using the [Insight API](https://github.com/vpubchain/vpub-insight-api).
+A Vpub blockchain explorer web application service for [Bitcore Node](https://github.com/vpubchain/vpub-bitcore-node) using the [Insight API](https://github.com/vpubchain/vpub-insight-api).
 
 ## Quick Start
 
